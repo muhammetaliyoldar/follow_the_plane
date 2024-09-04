@@ -1,1 +1,1 @@
-firstly write terminal "pip install requests matplotlib pytz"
+write terminal "pip install requests matplotlib pytz"
